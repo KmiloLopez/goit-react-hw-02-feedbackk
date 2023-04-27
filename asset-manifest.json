@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-02-feedbackk/static/css/main.073c9b0a.css",
+    "main.js": "/goit-react-hw-02-feedbackk/static/js/main.7c27e0eb.js",
+    "static/js/787.461ae4cb.chunk.js": "/goit-react-hw-02-feedbackk/static/js/787.461ae4cb.chunk.js",
+    "index.html": "/goit-react-hw-02-feedbackk/index.html",
+    "main.073c9b0a.css.map": "/goit-react-hw-02-feedbackk/static/css/main.073c9b0a.css.map",
+    "main.7c27e0eb.js.map": "/goit-react-hw-02-feedbackk/static/js/main.7c27e0eb.js.map",
+    "787.461ae4cb.chunk.js.map": "/goit-react-hw-02-feedbackk/static/js/787.461ae4cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7c27e0eb.js"
+  ]
+}
